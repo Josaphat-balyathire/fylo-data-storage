@@ -36,7 +36,7 @@ this was interesting cause i had to think about the tooltip on the big screen
  but using clip-path was too challenging for me .
 
 
-<
+
 ### Continued development
 
 nes time i will experiment the clip-path property and learn how to draw with numbers.
